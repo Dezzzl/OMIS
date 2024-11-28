@@ -16,9 +16,3 @@ spring:
   mvc:
     format:
       date: iso
-
-minio:
-  bucket: images
-  url: http://localhost:9000
-  accessKey: minioadmin
-  secretKey: minioadmin
